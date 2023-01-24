@@ -2,8 +2,11 @@
 垃圾外挂，混淆混不明白
 
 自己壳子加不明白非要犟嘴，混不明白就帮你开源得了
+
 MIT-Licence 随便抄，除了startclient那和ModuleManager.registerModule有native以外别的地方暂未发现native
+
 这俩东西随便抄个原水的补回去就行了
+
 Java层目测未混淆 直接反编译出来给大家抄咯~
 
 PS：我寻思就是个傻蛆Gitee验证我都没抓到你Http访问就崩端了还犟嘴没混炸，dbg调试都爆你dll文件损坏了
