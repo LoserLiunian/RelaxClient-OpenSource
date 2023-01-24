@@ -6,7 +6,7 @@ MIT-Licence 随便抄，除了startclient那和ModuleManager.registerModule有na
 这俩东西随便抄个原水的补回去就行了
 Java层目测未混淆 直接反编译出来给大家抄咯~
 
-PS：我寻思就是个傻蛆Gitee验证我都没抓到你Http访问就崩端了还犟嘴没混渣，dbg调试都爆你dll文件损坏了
+PS：我寻思就是个傻蛆Gitee验证我都没抓到你Http访问就崩端了还犟嘴没混炸，dbg调试都爆你dll文件损坏了
 不好评价
 
 
