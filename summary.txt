@@ -1,0 +1,294 @@
+Summary for Relaxed 0124.jar
+Decompiled with CFR 0.152
+
+
+com.jagrosh.discordipc.IPCClient
+----------------------------
+
+lambda$startReading$0()
+  Unable to fully structure code
+
+
+jdk.nashorn.internal.runtime.regexp.joni.Analyser
+----------------------------
+
+setupTree(jdk.nashorn.internal.runtime.regexp.joni.ast.Node int )
+  Unable to fully structure code
+
+
+jdk.nashorn.internal.runtime.Source
+----------------------------
+
+readBytes(java.io.InputStream )
+  Loose catch block
+
+
+kotlin.collections.SlidingWindowKt
+----------------------------
+
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+
+
+kotlin.internal.PlatformImplementations
+----------------------------
+
+<clinit>()
+  Unable to fully structure code
+
+
+kotlin.io.FilesKt__UtilsKt
+----------------------------
+
+normalize$FilesKt__UtilsKt(java.util.List<? extends java.io.File> )
+  Could not resolve type clashes
+  Unable to fully structure code
+
+
+kotlin.jvm.JvmClassMappingKt
+----------------------------
+
+getJavaObjectType(kotlin.reflect.KClass<T> )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+kotlin.random.Random
+----------------------------
+
+nextDouble(double double )
+  Unable to fully structure code
+
+
+kotlin.sequences.SequencesKt___SequencesKt
+----------------------------
+
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+invokeSuspend(java.lang.Object )
+  Unable to fully structure code
+
+
+kotlin.text.DelimitedRangesSequence
+----------------------------
+
+calcNext()
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.command.CommandManager
+----------------------------
+
+getCompletions(java.lang.String )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.command.commands.LocalAutoSettingsCommand
+----------------------------
+
+tabComplete(java.lang.String[] )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.command.commands.PanicCommand
+----------------------------
+
+execute(java.lang.String[] )
+  Unable to fully structure code
+  Could not resolve type clashes
+
+
+net.ccbluex.liquidbounce.features.command.commands.RemoteViewCommand
+----------------------------
+
+tabComplete(java.lang.String[] )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.combat.AutoHead
+----------------------------
+
+onUpdate(net.ccbluex.liquidbounce.event.MotionEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.combat.AutoPot
+----------------------------
+
+onMotion(net.ccbluex.liquidbounce.event.MotionEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.combat.AutoWeapon
+----------------------------
+
+onPacket(net.ccbluex.liquidbounce.event.PacketEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.combat.BowAimbot
+----------------------------
+
+getTarget(boolean java.lang.String )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.combat.KillAura
+----------------------------
+
+onUpdate(net.ccbluex.liquidbounce.event.UpdateEvent )
+  Unable to fully structure code
+onRender3D(net.ccbluex.liquidbounce.event.Render3DEvent )
+  Unable to fully structure code
+runAttack()
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.misc.HytGetName
+----------------------------
+
+onPacket(net.ccbluex.liquidbounce.event.PacketEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.movement.BowJump
+----------------------------
+
+onUpdate(net.ccbluex.liquidbounce.event.UpdateEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.movement.BufferSpeed
+----------------------------
+
+onUpdate(net.ccbluex.liquidbounce.event.UpdateEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.movement.BugUp
+----------------------------
+
+onUpdate(net.ccbluex.liquidbounce.event.UpdateEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.movement.KeepSprint
+----------------------------
+
+getTag()
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.movement.LiquidWalk
+----------------------------
+
+onUpdate(net.ccbluex.liquidbounce.event.UpdateEvent )
+  Unable to fully structure code
+onBlockBB(net.ccbluex.liquidbounce.event.BlockBBEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.movement.Spider
+----------------------------
+
+onUpdate(net.ccbluex.liquidbounce.event.UpdateEvent )
+  Unable to fully structure code
+onBlockBB(net.ccbluex.liquidbounce.event.BlockBBEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.player.AutoPlay
+----------------------------
+
+onPacket(net.ccbluex.liquidbounce.event.PacketEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.player.FastUse
+----------------------------
+
+onMotion(net.ccbluex.liquidbounce.event.MotionEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.player.InventoryCleaner
+----------------------------
+
+findBetterItem(int net.ccbluex.liquidbounce.api.minecraft.item.IItemStack )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.player.NoFall
+----------------------------
+
+onUpdate(net.ccbluex.liquidbounce.event.UpdateEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.render.BlockESP
+----------------------------
+
+onRender3D(net.ccbluex.liquidbounce.event.Render3DEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.render.StorageESP
+----------------------------
+
+onRender3D(net.ccbluex.liquidbounce.event.Render3DEvent )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.features.module.modules.render.Trail
+----------------------------
+
+onRender3D(net.ccbluex.liquidbounce.event.Render3DEvent )
+  Iterators could be improved
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.ui.client.hud.element.elements.Hotbar
+----------------------------
+
+drawElement()
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.ui.client.hud.element.elements.Model
+----------------------------
+
+drawElement()
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.ui.client.hud.element.elements.Text
+----------------------------
+
+getReplacement(java.lang.String )
+  WARNING - bad return control flow
+multiReplace(java.lang.String )
+  Unable to fully structure code
+
+
+net.ccbluex.liquidbounce.ui.client.hud.element.elements.Text2
+----------------------------
+
+multiReplace(java.lang.String )
+  Unable to fully structure code
+drawElement()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Can't sort instructions [@NONE, blocks:[17] lbl122 : CaseStatement: default:
+, @NONE, blocks:[17] lbl122 : CaseStatement: default:
+]
+
+
+org.spongepowered.asm.mixin.refmap.ReferenceMapper
+----------------------------
+
+read(java.lang.String )
+  Loose catch block
